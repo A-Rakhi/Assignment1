@@ -1,0 +1,221 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#header{
+	height: 80px;
+}
+ .menu{
+ 	float: right;
+ 	padding-top: 30px;
+ 	margin-right: 150px;
+ }
+ .menu ul li{
+ 	display: inline;
+ }
+ .menu ul li a{
+ 	 	text-decoration: none;
+ 	 	padding-left: 25px;
+ 	 	color: black;
+ 	 	font-family: Time New Roman,sans-serif;
+ 	 	font-weight: bold;
+
+
+ }
+ .menu ul li a:hover{
+ 	 	text-decoration: underline;
+
+ }
+ 
+
+ .banner1{
+ 	float: left;
+ 	 	width: 30%;
+ 	 	padding-left: 150px;
+ 	 	    margin-top: 110px;
+
+ }
+ .banner1-h2{
+ 	text-transform: uppercase;
+ 	font-size: 45px;
+ 	font-family:  verdana;
+ 	color: #5C4A89;
+ 	font-weight: bold;
+
+ }
+
+.bannerp1 {
+    padding: 30px 0px;
+    font-family: Time New Roman;
+    font-size: 18px;
+}
+
+ button.button1 {
+    padding: 18px 45px 18px 45px;
+    font-weight: bold;
+    color: white;
+    margin:10px 0px 20px 0px;
+    background-color: #F54516;
+    border-style: none;
+    border-radius: 5px;
+
+}
+
+ .img1{
+ 	float: right;
+ 	 width: 40%;
+ 	 margin-right: 80px;
+ 	 }
+
+
+ .img2{
+ 	margin-left: 140px;
+ 	margin-top: 60px;
+ 	}
+
+
+ .about{
+ 	float: right;
+ 	width: 30%;
+ 	margin-right: 140px;
+ 	margin-top:-360px;
+ }
+
+ .about-h2{
+ 	text-transform: uppercase;
+ 	font-family:  Time New Roman, sans-serif;
+ 	color: #5C4A89;
+ 	font-weight: bold;
+ 	font-size: 32px;
+
+ }
+ .about p {
+ 	 	padding: 25px 0px;
+ 	 	font-size: 20px;
+
+ }
+ button.button2 {
+    padding: 20px 45px 20px 45px;
+    font-weight: bold;
+    color: white;
+    margin:10px 0px 20px 0px;
+     	background-color: #F54516;
+     	border-style: none;
+     	border-radius: 5px;
+
+}
+
+#work{
+	height: 650px;
+	background-color:  #7388873b;
+	margin-top: 120px;
+}
+
+#work h1{
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	padding: 70px 0px;
+ 	font-family: verdana;
+ 	font-weight: bold;
+}
+
+.card1{
+
+    float: left;
+    margin-left: 160px;
+   background-color: #fff;
+   width: 25%;
+   border-radius: 8px;
+   box-shadow: gray;
+}
+.card2{
+	float: left;
+	width: 25%;
+	margin-left: 30px;
+	background-color: #fff;
+	border-radius: 8px;
+	box-shadow: gray;
+
+}
+.card3{
+	float: left;
+	width: 25%;
+	margin-left: 30px;
+	background-color: #fff;
+	border-radius: 8px;
+	box-shadow: gray;
+
+}
+.card1-1{
+	margin:15px;
+}
+
+#work h3{ 
+	color: #02029c;
+	padding: 18px 0px 10px 0px ;
+	font-weight: bold;
+}
+
+#work p {
+	padding: 6px 0px 10px 0px;
+	color: gray;
+	font-size: 18px;
+}
+
+#contact{
+	height: 500px;
+	text-align: center;
+	margin: 100px;
+}
+
+.contact-sec{
+	background-image: url(pic/b.png);
+	width: 820px;
+	height: 200px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 30px auto;
+} 
+h1.contact-h1 {
+    float: left;
+    margin: 80px ;
+    color: #fff;
+    font-size: 40px;
+}
+
+
+ .contact-button {
+    padding: 20px 40px 20px 40px;
+    font-weight: bold;
+    color: white;
+    margin:10px 0px 20px 0px;
+    background-color: #F54516;
+     	border-style: none;
+     	border-radius: 5px;
+     	float: right;
+    margin-top: 75px;
+    margin-right: 90px;
+    
+     }
+
+     .contact-button a{
+     	text-decoration: none;
+     }
+
+p.contact-p {
+    color: gray;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Time New Roman;
+    padding:60px 0px 20px 0px;
+}
+h2.contact-h2 {
+    font-size: 41px;
+    font-family: arial;
+    color: #242469;
+}
+
+.img-con{
+	display: inline;
+}
